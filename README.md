@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Giuppone
-- 👀 I’m interested in  ...
+- 👋 Hi, I’m @Giuppone I am a data-scientist; astrophysics and here I show some code examples of my work. 
+- 👀 I’m interested in machine learning, deep learning, data analysis, market analysis, etc.
 - 🌱 I’m currently learning deep-learning, SQL, data retrieve, synthetic model construction.
 - 💞️ I’m looking to collaborate on software and apps development.
-- 📫 cristian.giuppone@gmail.com
+- 📫 cristian.giuppone@unc.edu.ar
 
 <!---
 Giuppone/Giuppone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
