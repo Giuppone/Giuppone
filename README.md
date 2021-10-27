@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Giuppone I am a data-scientist; astrophysics and here I show some code examples of my work. 
 - 👀 I’m interested in machine learning, deep learning, data analysis, market analysis, etc.
-- 🌱 I’m currently learning deep-learning, SQL, data retrieve, synthetic model construction.
+- 🌱 I’m currently learning how to deal with BigData: deep-learning, SQL, data retrieve, synthetic model construction.
 - 💞️ I’m looking to collaborate on software and apps development.
 - 📫 cristian.giuppone@unc.edu.ar
 
